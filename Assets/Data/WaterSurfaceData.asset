@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b17284ebf5e80436eb6089f8c7459dab, type: 3}
   m_Name: WaterSurfaceData
   m_EditorClassIdentifier: 
-  _waterMaxVisibility: 9
+  _waterMaxVisibility: 95
   _absorptionRamp:
     serializedVersion: 2
     key0: {r: 1, g: 1, b: 1, a: 1}
     key1: {r: 0.8117647, g: 1, b: 1, a: 1}
-    key2: {r: 0.13510147, g: 0.8679245, b: 0.8679245, a: 0}
-    key3: {r: 0.021626905, g: 0.49048996, b: 0.509434, a: 0}
-    key4: {r: 0, g: 0.275, b: 0.44, a: 0}
+    key2: {r: 0.13333333, g: 0.32465458, b: 0.8666667, a: 0}
+    key3: {r: 0.023529412, g: 0.16062826, b: 0.50980395, a: 0}
+    key4: {r: 0, g: 0.09362365, b: 0.4392157, a: 0}
     key5: {r: 0, g: 0, b: 0, a: 0}
     key6: {r: 0, g: 0, b: 0, a: 0}
     key7: {r: 0, g: 0, b: 0, a: 0}
@@ -40,13 +40,14 @@ MonoBehaviour:
     atime6: 0
     atime7: 0
     m_Mode: 0
+    m_ColorSpace: 0
     m_NumColorKeys: 6
     m_NumAlphaKeys: 2
   _scatterRamp:
     serializedVersion: 2
-    key0: {r: 0.18356179, g: 0.23584908, b: 0.21841997, a: 1}
-    key1: {r: 0.23375759, g: 0.4811321, b: 0.47868282, a: 1}
-    key2: {r: 0.11574403, g: 0.41769665, b: 0.4811321, a: 0}
+    key0: {r: 0.18431373, g: 0.19544265, b: 0.23529412, a: 1}
+    key1: {r: 0.23529412, g: 0.33616358, b: 0.48235294, a: 1}
+    key2: {r: 0.14827341, g: 0.35511434, b: 0.6415094, a: 0}
     key3: {r: 0.11574403, g: 0.41769665, b: 0.4811321, a: 0}
     key4: {r: 0.01176471, g: 0.90588236, b: 0.84650886, a: 0}
     key5: {r: 0, g: 0, b: 0, a: 0}
@@ -69,6 +70,7 @@ MonoBehaviour:
     atime6: 0
     atime7: 0
     m_Mode: 0
+    m_ColorSpace: 0
     m_NumColorKeys: 3
     m_NumAlphaKeys: 2
   _waves:
