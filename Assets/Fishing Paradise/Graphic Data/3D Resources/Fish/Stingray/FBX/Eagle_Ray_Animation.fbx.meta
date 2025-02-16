@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 6f5a97c05e142ef418cc0dfdb0d7e16e
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 169602581227205847
+    second: Eagle_Ray|Attack_1_IP
+  - first:
+      74: 5075792618633527087
+    second: Eagle_Ray|Attack_2_IP
+  - first:
+      74: -2209701628486788076
+    second: Eagle_Ray|Death
+  - first:
+      74: -201754720569888645
+    second: Eagle_Ray|Eat
+  - first:
+      74: 1979834184883927066
+    second: Eagle_Ray|Hit_B
+  - first:
+      74: -6853617988648428937
+    second: Eagle_Ray|Hit_F
+  - first:
+      74: -532552193875546466
+    second: Eagle_Ray|Hit_M
+  - first:
+      74: 3920930412086104913
+    second: Eagle_Ray|Idle
+  - first:
+      74: 8241152750927539639
+    second: Eagle_Ray|Idle_2
+  - first:
+      74: 2302635231020661106
+    second: Eagle_Ray|Swim_Attack_F_IP
+  - first:
+      74: -5345630287705326338
+    second: Eagle_Ray|Swim_Attack_F_RM
+  - first:
+      74: -806325810810905510
+    second: Eagle_Ray|Swim_Attack_Fast_F_IP
+  - first:
+      74: 2178078878012151768
+    second: Eagle_Ray|Swim_Attack_Fast_F_RM
+  - first:
+      74: -6781590775163629036
+    second: Eagle_Ray|Swim_F_IP
+  - first:
+      74: 8915202957574317851
+    second: Eagle_Ray|Swim_F_RM
+  - first:
+      74: -1899719696289977338
+    second: Eagle_Ray|Swim_Fast_F_IP
+  - first:
+      74: -2186579781861103160
+    second: Eagle_Ray|Swim_Fast_F_RM
+  - first:
+      74: 38419126769000144
+    second: Eagle_Ray|Swim_Fast_FD_IP
+  - first:
+      74: 5886410661526779131
+    second: Eagle_Ray|Swim_Fast_FD_RM
+  - first:
+      74: -2372249325886480197
+    second: Eagle_Ray|Swim_Fast_FL_IP
+  - first:
+      74: -1960973676467796740
+    second: Eagle_Ray|Swim_Fast_FL_RM
+  - first:
+      74: -4668758330093996879
+    second: Eagle_Ray|Swim_Fast_FR_IP
+  - first:
+      74: -4227236395222911100
+    second: Eagle_Ray|Swim_Fast_FR_RM
+  - first:
+      74: -3650221639843107468
+    second: Eagle_Ray|Swim_Fast_FU_IP
+  - first:
+      74: -84965416864287077
+    second: Eagle_Ray|Swim_Fast_FU_RM
+  - first:
+      74: 1220347478117987581
+    second: Eagle_Ray|Swim_FD_IP
+  - first:
+      74: -681810190639443658
+    second: Eagle_Ray|Swim_FD_RM
+  - first:
+      74: 8740571713295359872
+    second: Eagle_Ray|Swim_FL_IP
+  - first:
+      74: 2403352001579264229
+    second: Eagle_Ray|Swim_FL_RM
+  - first:
+      74: -5428594150912249930
+    second: Eagle_Ray|Swim_FR_IP
+  - first:
+      74: -5604588229993753593
+    second: Eagle_Ray|Swim_FR_RM
+  - first:
+      74: -1542001893985831957
+    second: Eagle_Ray|Swim_FU_IP
+  - first:
+      74: 8980897960523489247
+    second: Eagle_Ray|Swim_FU_RM
+  - first:
+      74: 1774903330382163682
+    second: Eagle_Ray|Turn_L_IP
+  - first:
+      74: -976447689236099092
+    second: Eagle_Ray|Turn_L_RM
+  - first:
+      74: 1437419502861603366
+    second: Eagle_Ray|Turn_R_IP
+  - first:
+      74: 6080500358892459043
+    second: Eagle_Ray|Turn_R_RM
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eagle_Ray
+    second: {fileID: 2100000, guid: 98ff6bbd72a2284499b7d81e66a3e97f, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
