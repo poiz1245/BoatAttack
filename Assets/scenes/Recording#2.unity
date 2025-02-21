@@ -3107,12 +3107,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2100907773}
   m_LocalEulerAnglesHint: {x: 8.394, y: 47.485, z: 82.377}
---- !u!4 &1631808070 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6972598001279081983, guid: 506cf31e60d16a643bc5124da6119d98,
-    type: 3}
-  m_PrefabInstance: {fileID: 2100907771}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1638024928
 GameObject:
   m_ObjectHideFlags: 0
@@ -3541,15 +3535,15 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1788480476}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.16327792, y: -0.5436271, z: 0.70055336, w: 0.43247533}
-  m_LocalPosition: {x: 12.1, y: 3.3, z: 39.2}
-  m_LocalScale: {x: 15.652192, y: 15.652167, z: 15.652174}
+  m_LocalRotation: {x: 0.13214666, y: 0.9672136, z: -0.15084203, w: -0.15582629}
+  m_LocalPosition: {x: 349.95865, y: 2.0513525, z: 187.79767}
+  m_LocalScale: {x: 0.36000058, y: 0.3600002, z: 0.3600001}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1861817785}
   - {fileID: 1047528905}
   - {fileID: 1572460845}
-  m_Father: {fileID: 1631808070}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 12.983, y: -160.839, z: 8.684}
 --- !u!95 &1788480478
 Animator:
@@ -3941,7 +3935,7 @@ PlayableDirector:
   - key: {fileID: 3397488145461989787, guid: 62c2cac67a0b7e3498f42bf01959f1ff, type: 2}
     value: {fileID: 864406598}
   - key: {fileID: -7610930785403446961, guid: 62c2cac67a0b7e3498f42bf01959f1ff, type: 2}
-    value: {fileID: 2100907772}
+    value: {fileID: 0}
   - key: {fileID: -4069184322157645387, guid: 62c2cac67a0b7e3498f42bf01959f1ff, type: 2}
     value: {fileID: 864406598}
   m_ExposedReferences:
@@ -4823,18 +4817,8 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1319698070}
-    - targetCorrespondingSourceObject: {fileID: 6972598001279081983, guid: 506cf31e60d16a643bc5124da6119d98,
-        type: 3}
-      insertIndex: 0
-      addedObject: {fileID: 1788480477}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 506cf31e60d16a643bc5124da6119d98, type: 3}
---- !u!95 &2100907772 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 7130858401582290175, guid: 506cf31e60d16a643bc5124da6119d98,
-    type: 3}
-  m_PrefabInstance: {fileID: 2100907771}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2100907773 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3753127123826626181, guid: 506cf31e60d16a643bc5124da6119d98,
@@ -4998,5 +4982,6 @@ SceneRoots:
   - {fileID: 1978493016}
   - {fileID: 232973611}
   - {fileID: 43957013}
+  - {fileID: 1788480477}
   - {fileID: 2100907771}
   - {fileID: 864406596}
