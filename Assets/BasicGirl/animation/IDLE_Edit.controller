@@ -1,13 +1,13 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1102 &-3908625247462321858
+--- !u!1102 &-4332031265906913940
 AnimatorState:
   serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: IDLE_Edit4
+  m_Name: root|Armature_001|mixamo_com|Layer0_remap
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -20,7 +20,8 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 629d6e8955aa3f84a92f02990c82f827, type: 2}
+  m_Motion: {fileID: 5072934561180014782, guid: 13f6c8d33234ae5429ed28dbab134be4,
+    type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -58,8 +59,8 @@ AnimatorStateMachine:
   m_Name: Base Layer
   m_ChildStates:
   - serializedVersion: 1
-    m_State: {fileID: -3908625247462321858}
-    m_Position: {x: 230, y: 240, z: 0}
+    m_State: {fileID: -4332031265906913940}
+    m_Position: {x: 249.33789, y: 348.24722, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -69,4 +70,4 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 230, y: 130, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: -3908625247462321858}
+  m_DefaultState: {fileID: -4332031265906913940}
